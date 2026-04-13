@@ -91,47 +91,6 @@ Currently at the **Junior → Middle** level: I write async-ready, structured co
 
 ---
 
-## Projects
-
-### 🔍 RAG / LLM Backend Service
-> Intelligent Q&A service over custom data using retrieval-augmented generation
-
-**Stack:** `Python` · `FastAPI` · `LangChain` · `OpenAI / Mistral` · `PostgreSQL`
-
-**Engineering decisions:**
-- Chunked document indexing with semantic similarity retrieval — relevant context, not noise
-- Context window managed via LangChain memory primitives — avoids token overflow
-- Stateless REST API design — horizontal scaling without session coupling
-- Prompt templates versioned separately from business logic
-
----
-
-### 🤖 Telegram Automation Suite
-> Bots automating real workflows: integrations with external services, multi-step user scenarios
-
-**Stack:** `Python` · `aiogram` · `REST API` · `PostgreSQL`
-
-**Engineering decisions:**
-- FSM (Finite State Machine) for complex multi-step conversation flows
-- Async I/O throughout — zero blocking on external API calls
-- Clean separation: bot handler layer / business logic / integration adapters
-- Retry logic and graceful error handling for third-party APIs
-
----
-
-### 📊 AI Data Processing Service
-> Backend for data ingestion, ETL pipelines, and LLM-powered insight generation
-
-**Stack:** `FastAPI` · `PostgreSQL` · `pandas` · `OpenAI API`
-
-**Engineering decisions:**
-- Modular pipeline pattern — each ETL stage is isolated and testable
-- LLM called post-cleaning only — reduces hallucination from dirty input
-- Pydantic validation at every API boundary — no silent data corruption
-- REST API exposes both raw results and generated summaries
-
----
-
 ## Engineering Approach
 
 ```
