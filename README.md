@@ -25,7 +25,7 @@
 
 Python backend developer specializing in **AI-integrated services** and **LLM-powered architectures**. I build things end-to-end — REST APIs, RAG pipelines, Telegram automation, data processing services.
 
-Currently at the **Junior → Middle** level: I write async-ready, structured code, ship production-like services from scratch, and integrate modern LLMs (OpenAI, Claude, Mistral) into real workflows. Strong foundation in algorithms (C++) and a systems-level thinking approach to backend design.
+Currently at the **Junior ** level: I write async-ready, structured code, ship production-like services from scratch, and integrate modern LLMs (OpenAI, Claude, Mistral) into real workflows. Strong foundation in algorithms (C++) and a systems-level thinking approach to backend design.
 
 - 🧠 **Core focus** — NLP, LLM integration, RAG, backend APIs
 - ⚡ **Strong in** — async FastAPI, PostgreSQL, LangChain pipelines, clean service design
