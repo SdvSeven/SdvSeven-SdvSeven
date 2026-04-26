@@ -27,11 +27,11 @@ Python backend developer specializing in **AI-integrated services** and **LLM-po
 
 Currently at the **Junior ** level: I write async-ready, structured code, ship production-like services from scratch, and integrate modern LLMs (OpenAI, Claude, Mistral) into real workflows. Strong foundation in algorithms (C++) and a systems-level thinking approach to backend design.
 
-- 🧠 **Core focus** — NLP, LLM integration, RAG, backend APIs
-- ⚡ **Strong in** — async FastAPI, PostgreSQL, LangChain pipelines, clean service design
-- 🏆 **Hackathon veteran** — multiple wins, money prizes, 24–48h shipping under real pressure  
-- 📝 **Technical writer** — blog on backend engineering and AI in practice
-- 🚀 **Goal** — Backend/AI Engineer role in a product team that builds real things
+-  **Core focus** — NLP, LLM integration, RAG, backend APIs
+-  **Strong in** — async FastAPI, PostgreSQL, LangChain pipelines, clean service design
+-  **Hackathon veteran** — multiple wins, money prizes, 24–48h shipping under real pressure  
+-  **Technical writer** — blog on backend engineering and AI in practice
+-  **Goal** — Backend/AI Engineer role in a product team that builds real things
 
 ---
 
@@ -83,11 +83,11 @@ Currently at the **Junior ** level: I write async-ready, structured code, ship p
 
 | | Result | Approach | Signal |
 |---|---|---|---|
-| 🚀 | REST APIs from zero to deployed | FastAPI + PostgreSQL + Docker, full lifecycle | End-to-end ownership |
-| 🤖 | LLM integrations in production-like services | OpenAI, Claude, Mistral — prompt engineering + context control | Beyond simple wrappers |
-| 🔍 | RAG pipelines with semantic retrieval | LangChain + vector stores + chunked indexing | Context-aware generation |
-| ⚡ | Async request handling | asyncio + non-blocking endpoints | Concurrent I/O at scale |
-| 🏆 | Multiple hackathon wins | Cross-domain stack, 24–48h delivery | Ship under real constraints |
+| 1 | REST APIs from zero to deployed | FastAPI + PostgreSQL + Docker, full lifecycle | End-to-end ownership |
+| 2 | LLM integrations in production-like services | OpenAI, Claude, Mistral — prompt engineering + context control | Beyond simple wrappers |
+| 3 | RAG pipelines with semantic retrieval | LangChain + vector stores + chunked indexing | Context-aware generation |
+| 4 | Async request handling | asyncio + non-blocking endpoints | Concurrent I/O at scale |
+| 5 | Multiple hackathon wins | Cross-domain stack, 24–48h delivery | Ship under real constraints |
 
 ---
 
@@ -146,7 +146,7 @@ I'm open to backend roles, AI/ML engineering, and interesting freelance projects
 
 <div align="center">
 
-📝 Writing about backend engineering and LLM integration → **[sdv7.ru](https://sdv7.ru)**
+ Writing about backend engineering and LLM integration → **[sdv7.ru](https://sdv7.ru)**
 
 <br/>
 
