@@ -10,7 +10,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@SdvSeven-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SdvSeven)
 [![Email](https://img.shields.io/badge/Email-i@sdv7.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@sdv7.ru)
-[![Blog](https://img.shields.io/badge/Tech%20Blog-sdv7.ru-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](t.me/sdv_seven)
+[![Blog](https://img.shields.io/badge/Telegram-t.me/sdv_seven-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/sdv_seven)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✓-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)](#lets-talk)
 
 <br/>
